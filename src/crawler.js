@@ -11,7 +11,10 @@ if (typeof console._commandLineAPI !== "undefined"){
     console.API = console;
 }
 
-
+/* 
+getDetails saves in a JSON file the number, title, number of points and comments
+via the console method save(). 
+*/
 function getDetails(){
 
     console.API.clear();
@@ -28,7 +31,7 @@ function getDetails(){
         if (athingElement && subtextElement) {
             athingObject = {};
 
-            // Find the child element with the class "title" within the current "athing"
+            // Find the child element with the class "title" within the current "athing" and assign to numberText its innerText
             let numberText = athingElement.getElementsByClassName("title")[0].innerText;
             // Find the child element within the current class "titleline"
             let titleElement = athingElement.getElementsByClassName("titleline")[0].firstChild;
