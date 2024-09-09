@@ -1,11 +1,10 @@
 
-const fs = require('fs'); 
 
-function filterAndSortEntries(entries) {
+export function filterAndSortEntries(entries) {
 
     // Helper function to count words in a title using regex (can be improved).
     function countWords(title) {
-        return title.split(/[^a-zA-Z0-9]*\s/).length  
+        return title.split(/[^a-zA-Z0-9]*\s/).length; 
     }
 
     // Filter and sort entries
@@ -19,24 +18,6 @@ function filterAndSortEntries(entries) {
     fiveOrFewerWords.sort((a, b) => a.points - b.points);
 
     // Combine the two sorted arrays
-    return moreThanFiveWords.concat(fiveOrFewerWords);
+    return {moreThanFiveWords, fiveOrFewerWords};
 }
 
-// Read and process the JSON file. Make sure to run on terminal this script on the main folder. 
-fs.readFile('../out/myThing.json', 'utf8', (err, data) => {
-    if (err) {
-        console.error('Error reading the file:', err);
-        return;
-    }
-    let entries = JSON.parse(data);
-    let sortedEntries = filterAndSortEntries(entries);
-
-    // Write the sorted data to a new JSON file
-    fs.writeFile('../out/myThingSorted.json', JSON.stringify(sortedEntries, null, 4), (err) => {
-        if (err) {
-            console.error('Error writing file:', err);
-            return;
-        }
-        console.log('Sorted data has been saved to myThingSorted.json');
-    });
-});

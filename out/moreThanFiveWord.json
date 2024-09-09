@@ -1,0 +1,116 @@
+[
+    {
+        "number": "16.",
+        "title": "Analysis of adversarial binary search game",
+        "points": 8,
+        "comments": 0
+    },
+    {
+        "number": "23.",
+        "title": "Infisical (YC W23) Is Hiring a Developer Who Love Writing",
+        "points": 0,
+        "comments": 0
+    },
+    {
+        "number": "24.",
+        "title": "NTT All-Photonics Network Activated Between Taiwan and Japan",
+        "points": 20,
+        "comments": 0
+    },
+    {
+        "number": "19.",
+        "title": "Show HN: Ki Editor - the multicursor syntactical editor",
+        "points": 17,
+        "comments": 2
+    },
+    {
+        "number": "25.",
+        "title": "Bringing insights into TCP resets and timeouts to Cloudflare Radar",
+        "points": 25,
+        "comments": 3
+    },
+    {
+        "number": "5.",
+        "title": "Creating a Git Commit: The Hard Way",
+        "points": 80,
+        "comments": 7
+    },
+    {
+        "number": "7.",
+        "title": "Sleep duration, chronotype, health and lifestyle factors affect cognition [pdf]",
+        "points": 56,
+        "comments": 8
+    },
+    {
+        "number": "9.",
+        "title": "Exploiting CI / CD Pipelines for fun and profit",
+        "points": 48,
+        "comments": 10
+    },
+    {
+        "number": "1.",
+        "title": "QUIC Is Not Quick Enough over Fast Internet",
+        "points": 60,
+        "comments": 15
+    },
+    {
+        "number": "18.",
+        "title": "\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg",
+        "points": 115,
+        "comments": 15
+    },
+    {
+        "number": "26.",
+        "title": "The Problem with the \"Hard Problem\"",
+        "points": 12,
+        "comments": 15
+    },
+    {
+        "number": "20.",
+        "title": "Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy",
+        "points": 42,
+        "comments": 16
+    },
+    {
+        "number": "28.",
+        "title": "PC Floppy Copy Protection: Softguard Superlok",
+        "points": 94,
+        "comments": 26
+    },
+    {
+        "number": "30.",
+        "title": "LuaJIT PR: Add Support for RISC-V 64",
+        "points": 116,
+        "comments": 41
+    },
+    {
+        "number": "14.",
+        "title": "Unconventional Case Study of Neoadjuvant Oncolytic Virotherapy for Breast Cancer",
+        "points": 116,
+        "comments": 42
+    },
+    {
+        "number": "29.",
+        "title": "How a 16th Century Explorer's Sailing Ship Works",
+        "points": 150,
+        "comments": 48
+    },
+    {
+        "number": "17.",
+        "title": "Charging lithium-ion batteries at high currents first increases lifespan by 50%",
+        "points": 118,
+        "comments": 50
+    },
+    {
+        "number": "13.",
+        "title": "Core: an experimental new way to write videogames",
+        "points": 201,
+        "comments": 137
+    },
+    {
+        "number": "11.",
+        "title": "alphaXiv: Open research discussion on top of arXiv",
+        "points": 474,
+        "comments": 164
+    }
+]
