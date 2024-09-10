@@ -1,182 +1,182 @@
 [
     {
         "number": "1.",
-        "title": "Debugging in the Multiverse",
-        "points": 76,
-        "comments": 18
+        "title": "A good day to trie-hard: saving compute 1% at a time",
+        "points": 233,
+        "comments": 78
     },
     {
         "number": "2.",
-        "title": "A good day to trie-hard: saving compute 1% at a time",
-        "points": 12,
-        "comments": 0
+        "title": "What you can get out of a high-quality font",
+        "points": 101,
+        "comments": 32
     },
     {
         "number": "3.",
-        "title": "How We Made Jupyter Notebooks Load 10 Times Faster",
-        "points": 31,
-        "comments": 0
+        "title": "Google Illuminate: Books and Papers turned into audio content",
+        "points": 119,
+        "comments": 64
     },
     {
         "number": "4.",
-        "title": "Multispectral Imaging and the Voynich Manuscript",
-        "points": 24,
-        "comments": 0
+        "title": "Satellites Spotting Aircraft",
+        "points": 33,
+        "comments": 6
     },
     {
         "number": "5.",
-        "title": "An NFC movie library for my kids",
-        "points": 1056,
-        "comments": 247
-    },
-    {
-        "number": "6.",
-        "title": "Memorizing the first 100 perfect squares (2022)",
-        "points": 42,
-        "comments": 16
-    },
-    {
-        "number": "7.",
-        "title": "Don't defer Close() on writable files (2017)",
-        "points": 166,
-        "comments": 193
-    },
-    {
-        "number": "8.",
-        "title": "Show HN: Free tool to find RSS feeds, even if not linked on the page",
-        "points": 24,
-        "comments": 12
-    },
-    {
-        "number": "9.",
-        "title": "Results (Don't) Speak for Themselves: A Case for Documentation",
-        "points": 14,
+        "title": "Floral formula",
+        "points": 29,
         "comments": 0
     },
     {
+        "number": "6.",
+        "title": "Debugging in the Multiverse",
+        "points": 138,
+        "comments": 39
+    },
+    {
+        "number": "7.",
+        "title": "Tomato64: A port of Tomato Firmware to x86_64",
+        "points": 42,
+        "comments": 13
+    },
+    {
+        "number": "8.",
+        "title": "Show HN: Visual DB – Web front end for your database",
+        "points": 19,
+        "comments": 11
+    },
+    {
+        "number": "9.",
+        "title": "How we made Jupyter notebooks load faster",
+        "points": 92,
+        "comments": 2
+    },
+    {
         "number": "10.",
-        "title": "Windows NT vs. Unix: A design comparison",
-        "points": 518,
-        "comments": 440
+        "title": "Show HN: YourNextStore – an open-source Shopify with Stripe as the back end",
+        "points": 91,
+        "comments": 22
     },
     {
         "number": "11.",
-        "title": "Carpentopod: A Walking Table Project",
-        "points": 312,
-        "comments": 35
+        "title": "Multispectral Imaging and the Voynich Manuscript",
+        "points": 83,
+        "comments": 15
     },
     {
         "number": "12.",
+        "title": "Show HN: GitOps Template for Kubernetes",
+        "points": 33,
+        "comments": 6
+    },
+    {
+        "number": "13.",
+        "title": "Apple must pay 13B euros in back taxes, EU's top court rules",
+        "points": 192,
+        "comments": 355
+    },
+    {
+        "number": "14.",
+        "title": "Microwave Oven Failure: Spontaneously turned on by its LED display",
+        "points": 12,
+        "comments": 2
+    },
+    {
+        "number": "15.",
+        "title": "GPTs and Hallucination",
+        "points": 73,
+        "comments": 136
+    },
+    {
+        "number": "16.",
+        "title": "Going open-source as a VC-Backed company",
+        "points": 53,
+        "comments": 24
+    },
+    {
+        "number": "17.",
+        "title": "Memorizing the first 100 perfect squares (2022)",
+        "points": 69,
+        "comments": 44
+    },
+    {
+        "number": "18.",
+        "title": "Show HN: Free tool to find RSS feeds, even if not linked on the page",
+        "points": 58,
+        "comments": 32
+    },
+    {
+        "number": "19.",
+        "title": "Don't defer Close() on writable files (2017)",
+        "points": 209,
+        "comments": 235
+    },
+    {
+        "number": "20.",
         "title": "Roame (YC S23) Is Hiring a Chief of Staff",
         "points": 0,
         "comments": 0
     },
     {
-        "number": "13.",
-        "title": "Radiology-specific foundation model",
-        "points": 168,
-        "comments": 99
-    },
-    {
-        "number": "14.",
-        "title": "The Canary",
-        "points": 98,
-        "comments": 18
-    },
-    {
-        "number": "15.",
-        "title": "Our RNG Git Hash Bug",
-        "points": 36,
-        "comments": 16
-    },
-    {
-        "number": "16.",
-        "title": "Make an LED Blink with Buttons and with Code",
-        "points": 6,
+        "number": "21.",
+        "title": "How to Compose Math Problems",
+        "points": 21,
         "comments": 0
     },
     {
-        "number": "17.",
-        "title": "Sigrok – a portable, cross-platform, FOSS signal analysis software suite",
-        "points": 134,
-        "comments": 22
-    },
-    {
-        "number": "18.",
-        "title": "Warner Brothers Cartoon Companion",
-        "points": 84,
-        "comments": 26
-    },
-    {
-        "number": "19.",
-        "title": "Launch HN: Deepsilicon (YC S24) – Software and hardware for ternary transformers",
-        "points": 170,
-        "comments": 61
-    },
-    {
-        "number": "20.",
-        "title": "Sqlc: Compile SQL to type-safe code",
-        "points": 196,
-        "comments": 83
-    },
-    {
-        "number": "21.",
-        "title": "Cecilia Payne-Gaposchkin discovered that stars are mostly made of hydrogen",
-        "points": 106,
-        "comments": 36
-    },
-    {
         "number": "22.",
-        "title": "Project Hammer: reduce collusion in the Canadian grocery sector",
-        "points": 335,
-        "comments": 221
+        "title": "Google loses EU court battle over €2.4B antitrust fine",
+        "points": 93,
+        "comments": 64
     },
     {
         "number": "23.",
-        "title": "B-Trees and Database Indexes",
-        "points": 281,
-        "comments": 56
+        "title": "Sapling: Source control that's user-friendly and scalable (2022)",
+        "points": 66,
+        "comments": 57
     },
     {
         "number": "24.",
-        "title": "Synthetic diamonds are now purer, more beautiful, and cheaper than mined",
-        "points": 756,
-        "comments": 415
+        "title": "New York Times tech workers union votes to authorize a strike",
+        "points": 14,
+        "comments": 0
     },
     {
         "number": "25.",
-        "title": "Hacking misconfigured AWS S3 buckets: A complete guide",
-        "points": 232,
-        "comments": 52
+        "title": "ChartEye: A Deep Learning Framework for Chart Information Extraction",
+        "points": 10,
+        "comments": 0
     },
     {
         "number": "26.",
-        "title": "iPhone 16 Pro and iPhone 16 Pro Max",
-        "points": 578,
-        "comments": 1479
+        "title": "Carpentopod: A Walking Table Project",
+        "points": 354,
+        "comments": 41
     },
     {
         "number": "27.",
-        "title": "Sail – Faster and cheaper PySpark-compatible computation framework",
-        "points": 65,
-        "comments": 12
+        "title": "An NFC movie library for my kids",
+        "points": 1216,
+        "comments": 285
     },
     {
         "number": "28.",
-        "title": "Every webpage deserves to be a place",
-        "points": 144,
-        "comments": 40
+        "title": "Deductive Verification for Chain-of-Thought Reasoning in LLMs",
+        "points": 5,
+        "comments": 0
     },
     {
         "number": "29.",
-        "title": "Transfusion: Predict the next token and diffuse images with one multimodal model",
-        "points": 114,
-        "comments": 10
+        "title": "The Canary",
+        "points": 163,
+        "comments": 36
     },
     {
         "number": "30.",
-        "title": "Why GitHub won",
-        "points": 582,
-        "comments": 455
+        "title": "When Bloom filters don't bloom (2020)",
+        "points": 25,
+        "comments": 5
     }
 ]

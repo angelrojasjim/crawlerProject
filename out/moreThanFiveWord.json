@@ -1,116 +1,140 @@
 [
     {
-        "number": "16.",
-        "title": "Analysis of adversarial binary search game",
-        "points": 8,
-        "comments": 0
-    },
-    {
-        "number": "23.",
-        "title": "Infisical (YC W23) Is Hiring a Developer Who Love Writing",
+        "number": "20.",
+        "title": "Roame (YC S23) Is Hiring a Chief of Staff",
         "points": 0,
         "comments": 0
     },
     {
         "number": "24.",
-        "title": "NTT All-Photonics Network Activated Between Taiwan and Japan",
-        "points": 20,
+        "title": "New York Times tech workers union votes to authorize a strike",
+        "points": 14,
         "comments": 0
     },
     {
-        "number": "19.",
-        "title": "Show HN: Ki Editor - the multicursor syntactical editor",
-        "points": 17,
-        "comments": 2
-    },
-    {
         "number": "25.",
-        "title": "Bringing insights into TCP resets and timeouts to Cloudflare Radar",
-        "points": 25,
-        "comments": 3
-    },
-    {
-        "number": "5.",
-        "title": "Creating a Git Commit: The Hard Way",
-        "points": 80,
-        "comments": 7
-    },
-    {
-        "number": "7.",
-        "title": "Sleep duration, chronotype, health and lifestyle factors affect cognition [pdf]",
-        "points": 56,
-        "comments": 8
-    },
-    {
-        "number": "9.",
-        "title": "Exploiting CI / CD Pipelines for fun and profit",
-        "points": 48,
-        "comments": 10
-    },
-    {
-        "number": "1.",
-        "title": "QUIC Is Not Quick Enough over Fast Internet",
-        "points": 60,
-        "comments": 15
-    },
-    {
-        "number": "18.",
-        "title": "\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg",
-        "points": 115,
-        "comments": 15
-    },
-    {
-        "number": "26.",
-        "title": "The Problem with the \"Hard Problem\"",
-        "points": 12,
-        "comments": 15
-    },
-    {
-        "number": "20.",
-        "title": "Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy",
-        "points": 42,
-        "comments": 16
+        "title": "ChartEye: A Deep Learning Framework for Chart Information Extraction",
+        "points": 10,
+        "comments": 0
     },
     {
         "number": "28.",
-        "title": "PC Floppy Copy Protection: Softguard Superlok",
-        "points": 94,
-        "comments": 26
+        "title": "Deductive Verification for Chain-of-Thought Reasoning in LLMs",
+        "points": 5,
+        "comments": 0
     },
     {
-        "number": "30.",
-        "title": "LuaJIT PR: Add Support for RISC-V 64",
-        "points": 116,
-        "comments": 41
+        "number": "9.",
+        "title": "How we made Jupyter notebooks load faster",
+        "points": 92,
+        "comments": 2
     },
     {
         "number": "14.",
-        "title": "Unconventional Case Study of Neoadjuvant Oncolytic Virotherapy for Breast Cancer",
-        "points": 116,
-        "comments": 42
+        "title": "Microwave Oven Failure: Spontaneously turned on by its LED display",
+        "points": 12,
+        "comments": 2
     },
     {
-        "number": "29.",
-        "title": "How a 16th Century Explorer's Sailing Ship Works",
-        "points": 150,
-        "comments": 48
+        "number": "30.",
+        "title": "When Bloom filters don't bloom (2020)",
+        "points": 25,
+        "comments": 5
     },
     {
-        "number": "17.",
-        "title": "Charging lithium-ion batteries at high currents first increases lifespan by 50%",
-        "points": 118,
-        "comments": 50
+        "number": "12.",
+        "title": "Show HN: GitOps Template for Kubernetes",
+        "points": 33,
+        "comments": 6
     },
     {
-        "number": "13.",
-        "title": "Core: an experimental new way to write videogames",
-        "points": 201,
-        "comments": 137
+        "number": "8.",
+        "title": "Show HN: Visual DB – Web front end for your database",
+        "points": 19,
+        "comments": 11
+    },
+    {
+        "number": "7.",
+        "title": "Tomato64: A port of Tomato Firmware to x86_64",
+        "points": 42,
+        "comments": 13
     },
     {
         "number": "11.",
-        "title": "alphaXiv: Open research discussion on top of arXiv",
-        "points": 474,
-        "comments": 164
+        "title": "Multispectral Imaging and the Voynich Manuscript",
+        "points": 83,
+        "comments": 15
+    },
+    {
+        "number": "10.",
+        "title": "Show HN: YourNextStore – an open-source Shopify with Stripe as the back end",
+        "points": 91,
+        "comments": 22
+    },
+    {
+        "number": "16.",
+        "title": "Going open-source as a VC-Backed company",
+        "points": 53,
+        "comments": 24
+    },
+    {
+        "number": "2.",
+        "title": "What you can get out of a high-quality font",
+        "points": 101,
+        "comments": 32
+    },
+    {
+        "number": "18.",
+        "title": "Show HN: Free tool to find RSS feeds, even if not linked on the page",
+        "points": 58,
+        "comments": 32
+    },
+    {
+        "number": "17.",
+        "title": "Memorizing the first 100 perfect squares (2022)",
+        "points": 69,
+        "comments": 44
+    },
+    {
+        "number": "23.",
+        "title": "Sapling: Source control that's user-friendly and scalable (2022)",
+        "points": 66,
+        "comments": 57
+    },
+    {
+        "number": "3.",
+        "title": "Google Illuminate: Books and Papers turned into audio content",
+        "points": 119,
+        "comments": 64
+    },
+    {
+        "number": "22.",
+        "title": "Google loses EU court battle over €2.4B antitrust fine",
+        "points": 93,
+        "comments": 64
+    },
+    {
+        "number": "1.",
+        "title": "A good day to trie-hard: saving compute 1% at a time",
+        "points": 233,
+        "comments": 78
+    },
+    {
+        "number": "19.",
+        "title": "Don't defer Close() on writable files (2017)",
+        "points": 209,
+        "comments": 235
+    },
+    {
+        "number": "27.",
+        "title": "An NFC movie library for my kids",
+        "points": 1216,
+        "comments": 285
+    },
+    {
+        "number": "13.",
+        "title": "Apple must pay 13B euros in back taxes, EU's top court rules",
+        "points": 192,
+        "comments": 355
     }
 ]
