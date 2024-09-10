@@ -1,10 +1,10 @@
 import fs from 'fs';
 
-// Import the filterAndSortEntries function from the utils folder
+// Import the filterAndSortEntries function from the src folder
 import {filterAndSortEntries} from '../src/filterOperations.js';
 
 // Read and process the JSON file. Make sure to run on terminal this script on the main folder. 
-fs.readFile('out/myThing.json', 'utf8', (err, data) => {
+fs.readFile('out/myThings.json', 'utf8', (err, data) => {
     if (err) {
         console.error('Error reading the file:', err);
         return;

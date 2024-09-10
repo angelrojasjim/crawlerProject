@@ -1,5 +1,7 @@
 
-
+/*
+filterAndSortEntries returns two filtered and sorted lists from a json file.
+*/
 export function filterAndSortEntries(entries) {
 
     // Helper function to count words in a title using regex (can be improved).

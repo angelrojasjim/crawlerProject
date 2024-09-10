@@ -1,32 +1,10 @@
 import puppeteer from "puppeteer";
 
-///////DEPRECATED/////////////////////
-//////////////////////////////////////
-/*
-var newsPath = window.location.href;
-
-console.API;
-
-if (typeof console._commandLineAPI !== "undefined"){
-    console.API = console._commandLineAPI;   //chrome 
-} else if (typeof console._inspectorCommandLineAPI !== "undefined"){
-    console._inspectorCommandLineAPI;      //safari
-} else if (typeof console.clear !== "undefined") {
-    console.API = console;
-}
-*/
-/////////////////////////////////////////
-
-
-
 /* 
 getDetails saves in a JSON file the number, title, number of points and comments
 via the console method save(). 
 */
 const getDetails = async() =>{
-
-    ///////DEPRECATED/////////////////////
-    //console.API.clear();
 
     // Launch the browser
     const browser = await puppeteer.launch({
