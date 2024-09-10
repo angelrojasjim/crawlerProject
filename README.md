@@ -5,6 +5,14 @@ From there, we are able to perform a couple of filtering operations defined in f
 
 - Filter all previous entries with more than five words in the title ordered by the number of comments first.
 - Filter all previous entries with less than or equal to five words in the title ordered by points.
-When counting words, consider only the spaced words and exclude any symbols. For instance, the phrase “This is - a self-explained example” should be counted as having 5 words. 
+When counting words, we consider only the spaced words and exclude any symbols. For instance, the phrase “This is - a self-explained example” should be counted as having 5 words. 
 
-The sorted file myThingSorted.js is saved in the "out" folder in case one saves the original JSON file in the mentioned folder. 
+The files moreThanFiveWords.json and fiveOrFewerWords.json are saved in the "out" folder in case one saves the downloadable JSON file myThings.json in the same folder. 
+
+To run automatically the tasks above, we have a script run-tasks.sh.
+Modify its permission to make it executable
+
+chmod +x run-tasks.sh
+
+And run the srcipt to produce the output files. Recall we must need the myThing.json file in the out folder. 
+
