@@ -14,5 +14,5 @@ Modify its permission to make it executable
 
 chmod +x run-tasks.sh
 
-And run the srcipt to produce the output files. Recall we must need the myThing.json file in the out folder. 
+And run the srcipt to produce the output files. IMPORTANT NOTE: we must need the default folder for the downloads of your browser: "$HOME/Downloads/". In this way, the script is able to move the myThings.json file in the out folder and produce the filtered results. 
 
