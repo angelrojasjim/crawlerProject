@@ -75,7 +75,7 @@ const getDetails = async() =>{
                 return;
             }
         
-            if(!filename) filename = "myThing.json"
+            if(!filename) filename = "myThings.json"
         
             if(typeof data === "object"){
                 data = JSON.stringify(data, undefined, 4)
